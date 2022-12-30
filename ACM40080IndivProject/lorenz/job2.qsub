@@ -1,0 +1,10 @@
+#!/bin/bash
+
+#$ -S /bin/bash
+#$ -N graph
+#$ -q all.q
+#$ -t 1
+#$ -cwd
+
+time python plot.py # Plot each of the xf values against the time
+rm pycode* graph* lorenz_x_0* temp.txt xf_* t_* # Remove unnecessary files

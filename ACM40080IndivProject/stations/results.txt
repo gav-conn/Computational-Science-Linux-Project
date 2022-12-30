@@ -1,0 +1,20 @@
+
+ The average temperature at Mace Head was 10.8981 degrees C
+ The maximum temperature at Mace Head was 24.8 degrees C on 27-jun-2019 16:00
+ The minimum temperature at Mace Head was 0.5 degrees C on 01-feb-2019 06:00 
+
+ The average temperature at Sherkin Island was 11.3464 degrees C
+ The maximum temperature at Sherkin Island was 20.7 degrees C on 31-jul-2019 14:00
+ The minimum temperature at Sherkin Island was 0.6 degrees C on 17-dec-2019 01:00 
+
+ The average temperature at Finner was 10.1745 degrees C
+ The maximum temperature at Finner was 24.2 degrees C on 27-jun-2019 16:00
+ The minimum temperature at Finner was -2.8 degrees C on 01-feb-2019 08:00 
+
+ The average temperature at Johnstown Castle was 10.4033 degrees C
+ The maximum temperature at Johnstown Castle was 22.4 degrees C on 24-aug-2019 13:00
+ The minimum temperature at Johnstown Castle was -1.2 degrees C on 30-jan-2019 20:00 
+
+ The average temperature at  was 10.3545 degrees C
+ The maximum temperature at  was 26.5 degrees C on 22-jul-2019 15:00
+ The minimum temperature at  was -3.8 degrees C on 31-jan-2019 01:00 

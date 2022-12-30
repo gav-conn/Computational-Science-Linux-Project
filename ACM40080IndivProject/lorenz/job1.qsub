@@ -1,0 +1,13 @@
+#!/bin/bash
+
+#$ -S /bin/bash
+#$ -N pycode
+#$ -q all.q
+#$ -t 1-3
+#$ -cwd
+
+file=$(awk -v val=$SGE_TASK_ID 'NR==val {print $1}' temp.txt) # Get each core to run code for different DELTAT value
+#echo $file
+time python $file # Run the relevant .py file
+#echo $SGE_TASK_ID
+exit 0
